@@ -241,11 +241,11 @@
     </Record>
     <Record>
       <Key>False</Key>
-      <Value>False</Value>
+      <Value>False (假)</Value>
     </Record>
     <Record>
       <Key>True</Key>
-      <Value>True</Value>
+      <Value>True (真)</Value>
     </Record>
     <Record>
       <Key>Construct</Key>
@@ -321,7 +321,7 @@
     </Record>
     <Record>
       <Key>Vend</Key>
-      <Value>Vend</Value>
+      <Value>販售</Value>
     </Record>
   </Actions>
   <Things>
@@ -1187,51 +1187,51 @@
     </Record>
     <Record>
       <Key>ItemSprayCanBlack</Key>
-      <Value>噴漆罐 (黑)</Value>
+      <Value>噴漆罐 (黑色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanBlue</Key>
-      <Value>噴漆罐 (藍)</Value>
+      <Value>噴漆罐 (藍色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanBrown</Key>
-      <Value>噴漆罐 (棕)</Value>
+      <Value>噴漆罐 (棕色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanGreen</Key>
-      <Value>噴漆罐 (綠)</Value>
+      <Value>噴漆罐 (綠色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanGrey</Key>
-      <Value>噴漆罐 (灰)</Value>
+      <Value>噴漆罐 (灰色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanKhaki</Key>
-      <Value>噴漆罐 (黃褐)</Value>
+      <Value>噴漆罐 (卡其色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanOrange</Key>
-      <Value>噴漆罐 (橘)</Value>
+      <Value>噴漆罐 (橘色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanPink</Key>
-      <Value>噴漆罐 (粉紅)</Value>
+      <Value>噴漆罐 (粉色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanPurple</Key>
-      <Value>噴漆罐 (紫)</Value>
+      <Value>噴漆罐 (紫色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanRed</Key>
-      <Value>噴漆罐 (紅)</Value>
+      <Value>噴漆罐 (紅色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanWhite</Key>
-      <Value>噴漆罐 (白)</Value>
+      <Value>噴漆罐 (白色)</Value>
     </Record>
     <Record>
       <Key>ItemSprayCanYellow</Key>
-      <Value>噴漆罐 (黃)</Value>
+      <Value>噴漆罐 (黃色)</Value>
     </Record>
     <Record>
       <Key>ItemSteelFrames</Key>
@@ -1955,7 +1955,7 @@
     </Record>
     <Record>
       <Key>StructureDiode</Key>
-      <Value>LED</Value>
+      <Value>發光二極體 (LED)</Value>
     </Record>
     <Record>
       <Key>ItemSoybean</Key>
@@ -2343,51 +2343,51 @@
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngled</Key>
-      <Value>複合牆板 (Angled)</Value>
+      <Value>複合牆板 (角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCorner</Key>
-      <Value>複合牆板 (Angled Corner)</Value>
+      <Value>複合牆板 (斜角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLong</Key>
-      <Value>複合牆板 (Long Angled Corner)</Value>
+      <Value>複合牆板 (長斜角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledLong</Key>
-      <Value>複合牆板 (Long Angled)</Value>
+      <Value>複合牆板 (長角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingCylindrical</Key>
-      <Value>複合牆板 (Cylindrical)</Value>
+      <Value>複合牆板 (圓柱)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingCylindricalPanel</Key>
-      <Value>複合牆板 (Cylindrical Panel)</Value>
+      <Value>複合牆板 (圓柱板)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSphericalCorner</Key>
-      <Value>複合牆板 (Spherical Corner)</Value>
+      <Value>複合牆板 (球形角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSphericalCap</Key>
-      <Value>複合牆板 (Spherical Cap)</Value>
+      <Value>複合牆板 (球形帽)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingSpherical</Key>
-      <Value>複合牆板 (Spherical)</Value>
+      <Value>複合牆板 (球形)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingRoundedCorner</Key>
-      <Value>複合牆板 (Rounded Corner)</Value>
+      <Value>複合牆板 (圓角)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingRounded</Key>
-      <Value>複合牆板 (Rounded)</Value>
+      <Value>複合牆板 (圓形)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingPanel</Key>
-      <Value>複合牆板 (Panel)</Value>
+      <Value>複合牆板 (平面)</Value>
     </Record>
     <Record>
       <Key>ItemKitCompositeCladding</Key>
@@ -2395,31 +2395,31 @@
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>
-      <Value>複合牆板 (Long Angled Mirrored Corner)</Value>
+      <Value>複合牆板 (反向長斜角)</Value>
     </Record>
     <Record>
       <Key>StructureDockPortSide</Key>
-      <Value>Structure Dock Port Side</Value>
+      <Value>飛船連接口</Value>
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>
-      <Value>Kit (Docking Port)</Value>
+      <Value>飛船連接口</Value>
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>
-      <Value>Structure Dock Ship Side</Value>
+      <Value>飛船連接口</Value>
     </Record>
     <Record>
       <Key>StructureLightLong</Key>
-      <Value>Wall Light (Long)</Value>
+      <Value>壁燈 (長)</Value>
     </Record>
     <Record>
       <Key>StructureLightLongAngled</Key>
-      <Value>Wall Light (Long Angled)</Value>
+      <Value>壁燈 (長角)</Value>
     </Record>
     <Record>
       <Key>StructureLightLongWide</Key>
-      <Value>Wall Light (Long Wide)</Value>
+      <Value>壁燈 (長寬)</Value>
     </Record>
     <Record>
       <Key>CircuitboardAdvancedAirlockControl</Key>
@@ -2435,35 +2435,35 @@
     </Record>
     <Record>
       <Key>StructureCompositeWindowIron</Key>
-      <Value>Structure Composite Window Iron</Value>
+      <Value>複合鐵窗</Value>
     </Record>
     <Record>
       <Key>CompositeFloorGrating1</Key>
-      <Value>Composite Floor Grating1</Value>
+      <Value>複合地板式柵板-1</Value>
     </Record>
     <Record>
       <Key>CompositeFloorGrating2</Key>
-      <Value>Composite Floor Grating2</Value>
+      <Value>複合地板式柵板-2</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating2</Key>
-      <Value>Structure Composite Floor Grating2</Value>
+      <Value>複合地板式柵板-2</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating3</Key>
-      <Value>Structure Composite Floor Grating3</Value>
+      <Value>複合地板式柵板-3</Value>
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating4</Key>
-      <Value>Structure Composite Floor Grating4</Value>
+      <Value>複合地板式柵板-4</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPanels</Key>
-      <Value>Kit (Wall Panels)</Value>
+      <Value>套件 牆板</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWallPanelling1</Key>
-      <Value>Structure Composite Wall Panelling1</Value>
+      <Value>複合牆板-1</Value>
     </Record>
     <Record>
       <Key>ItemKitCompositeFloorGrating</Key>
@@ -2471,7 +2471,7 @@
     </Record>
     <Record>
       <Key>CompositeRollCover</Key>
-      <Value>Composite Roll Cover</Value>
+      <Value>複合捲門</Value>
     </Record>
     <Record>
       <Key>ItemKitLadder</Key>
@@ -2479,107 +2479,107 @@
     </Record>
     <Record>
       <Key>StructureFrameCornerCut</Key>
-      <Value>Structure Frame Corner Cut</Value>
+      <Value>框架 (切角)</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling1</Key>
-      <Value>Composite Wall Panelling1</Value>
+      <Value>複合牆板-1</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling2</Key>
-      <Value>Composite Wall Panelling2</Value>
+      <Value>複合牆板-2</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling3</Key>
-      <Value>Composite Wall Panelling3</Value>
+      <Value>複合牆板-3</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling4</Key>
-      <Value>Composite Wall Panelling4</Value>
+      <Value>複合牆板-4</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling5</Key>
-      <Value>Composite Wall Panelling5</Value>
+      <Value>複合牆板-5</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling6</Key>
-      <Value>Composite Wall Panelling6</Value>
+      <Value>複合牆板-6</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling7</Key>
-      <Value>Composite Wall Panelling7</Value>
+      <Value>複合牆板-7</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling8</Key>
-      <Value>Composite Wall Panelling8</Value>
+      <Value>複合牆板-8</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling9</Key>
-      <Value>Composite Wall Panelling9</Value>
+      <Value>複合牆板-9</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling10</Key>
-      <Value>Composite Wall Panelling10</Value>
+      <Value>複合牆板-10</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling11</Key>
-      <Value>Composite Wall Panelling11</Value>
+      <Value>複合牆板-11</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling12</Key>
-      <Value>Composite Wall Panelling12</Value>
+      <Value>複合牆板-12</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling13</Key>
-      <Value>Composite Wall Panelling13</Value>
+      <Value>複合牆板-13</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling14</Key>
-      <Value>Composite Wall Panelling14</Value>
+      <Value>複合牆板-14</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling15</Key>
-      <Value>Composite Wall Panelling15</Value>
+      <Value>複合牆板-15</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling16</Key>
-      <Value>Composite Wall Panelling16</Value>
+      <Value>複合牆板-16</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling17</Key>
-      <Value>Composite Wall Panelling17</Value>
+      <Value>複合牆板-17</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling18</Key>
-      <Value>Composite Wall Panelling18</Value>
+      <Value>複合牆板-18</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling19</Key>
-      <Value>Composite Wall Panelling19</Value>
+      <Value>複合牆板-19</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling20</Key>
-      <Value>Composite Wall Panelling20</Value>
+      <Value>複合牆板-20</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling21</Key>
-      <Value>Composite Wall Panelling21</Value>
+      <Value>複合牆板-21</Value>
     </Record>
     <Record>
       <Key>Corner1</Key>
-      <Value>Corner1</Value>
+      <Value>轉角-1</Value>
     </Record>
     <Record>
       <Key>StructureWallFlat</Key>
-      <Value>Structure Wall Flat</Value>
+      <Value>平面牆</Value>
     </Record>
     <Record>
       <Key>StructureWallArch</Key>
-      <Value>Structure Wall Arch</Value>
+      <Value>拱形牆</Value>
     </Record>
     <Record>
       <Key>StructureWallArchArrow</Key>
-      <Value>Structure Wall Arch Arrow</Value>
+      <Value>拱箭形牆</Value>
     </Record>
     <Record>
       <Key>StructureWallArchPlating</Key>
@@ -2691,7 +2691,7 @@
     </Record>
     <Record>
       <Key>ItemAuthoringTool</Key>
-      <Value>Item Authoring Tool</Value>
+      <Value>創作工具</Value>
     </Record>
     <Record>
       <Key>StructureRocketEngineDestroyed</Key>
@@ -2703,19 +2703,19 @@
     </Record>
     <Record>
       <Key>ItemWreckage1</Key>
-      <Value>Wreckage</Value>
+      <Value>殘骸</Value>
     </Record>
     <Record>
       <Key>ItemWreckage2</Key>
-      <Value>Wreckage</Value>
+      <Value>殘骸</Value>
     </Record>
     <Record>
       <Key>ItemWreckage3</Key>
-      <Value>Wreckage</Value>
+      <Value>殘骸</Value>
     </Record>
     <Record>
       <Key>ItemWreckage4</Key>
-      <Value>Wreckage</Value>
+      <Value>殘骸</Value>
     </Record>
     <Record>
       <Key>CartridgeAccessController</Key>
@@ -3428,10 +3428,6 @@
     <Record>
       <Key>Magazine</Key>
       <Value>彈匣</Value>
-    </Record>
-    <Record>
-      <Key />
-      <Value />
     </Record>
     <Record>
       <Key>TemperatureUp</Key>
@@ -4597,11 +4593,19 @@
     </Record>
     <Record>
       <Key>NewWorldAreaEuropa</Key>
-      <Value>Europa</Value>
+      <Value>木衛二</Value>
     </Record>
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>語音通知</Value>
+    </Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>
+      <Value>關閉全部</Value>
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>重啟視窗</Value>
     </Record>
   </Interface>
   <Colors>
