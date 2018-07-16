@@ -7,109 +7,109 @@
   	<!-- Mission Stage: In Case of Emergency -->
 	<Record>
       <Key>MarsTitleInCaseOfEmergency</Key>
-      <Value>In Case of Emergency...</Value>
+      <Value>緊急情況...</Value>
     </Record>
 	<Record>
       <Key>MarsDescInCaseOfEmergency</Key>
-      <Value>Your suit is damaged and you need to find some food.</Value>
+      <Value>你的裝備破損了，而且你需要找些食物。</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGetTape</Key>
-      <Value>Find some {THING:ItemDuctTape}</Value>
+      <Value>尋找一些 {THING:ItemDuctTape}</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGetFood</Key>
-      <Value>Find a {THING:ItemCerealBar}</Value>
+      <Value>尋找一個 {THING:ItemCerealBar}</Value>
     </Record> 
 
 	<!-- Mission Stage: Aquire Raw Materials -->
 	<Record>
       <Key>MarsTitleRawMaterials</Key>
-      <Value>Beg, Burrow and Steal</Value>
+      <Value>乞求、挖洞和偷竊</Value>
     </Record>
 	<Record>
       <Key>MarsDescRawMaterials</Key>
-      <Value>Find a way to produce the basic materials you need to get manufacturing underway.</Value>
+      <Value>找到一種方法來生產製造所需的基本材料</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGetIronIngots</Key>
-      <Value>Get a {THING:ItemIronIngot}</Value>
+      <Value>得到一個 {THING:ItemIronIngot}</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGetCopperIngots</Key>
-      <Value>Get a {THING:ItemCopperIngot}</Value>
+      <Value>得到一個 {THING:ItemCopperIngot}</Value>
     </Record>
 		<Record>
       <Key>MarsTaskGetGoldIngots</Key>
-      <Value>Get a {THING:ItemGoldIngot}</Value>
+      <Value>得到一個 {THING:ItemGoldIngot}</Value>
     </Record>
 	
 	<!-- Mission Stage: Setup Manufacturing -->
 	<Record>
       <Key>MarsTitleSetupManufacturing</Key>
-      <Value>Seizing the means of production</Value>
+      <Value>獲取生產資料</Value>
     </Record>
 	<Record>
       <Key>MarsDescSetupManufacturing</Key>
-      <Value>In order to manufacture everything we'll need, we should start with a {THING:ItemKitHydraulicPipeBender} and a {THING:ItemKitElectronicsPrinter}.</Value>
+      <Value>為了製造我們所需的一切，我們應該 {THING:ItemKitHydraulicPipeBender} 和 {THING:ItemKitElectronicsPrinter} 開始。</Value>
     </Record>
 	<Record>
       <Key>MarsTaskManufactureHPB</Key>
-      <Value>Manufacture a {THING:ItemKitHydraulicPipeBender}</Value>
+      <Value>製造一個 {THING:ItemKitHydraulicPipeBender}</Value>
     </Record>
 	<Record>
       <Key>MarsTaskManufactureEP</Key>
-      <Value>Manufacture a {THING:ItemKitElectronicsPrinter}</Value>
+      <Value>製造一個 {THING:ItemKitElectronicsPrinter}</Value>
     </Record>
 
 	<!-- Mission Stage: Food Supply -->
 	<Record>
       <Key>MarsTitleFoodSupply</Key>
-      <Value>A Reliable Food Source</Value>
+      <Value>可靠的食物來源</Value>
     </Record>
 	<Record>
       <Key>MarsDescFoodSupply</Key>
-      <Value>We don't know how long you'll need to survive here.  We should prepare a renewable source of food just in case.</Value>
+      <Value>我們不知道你需要在這裡待多久。 我們應該準備一個可再生的食物來源以防萬一。</Value>
     </Record>
 	<Record>
       <Key>MarsTaskPrepareAtmos</Key>
-      <Value>Create a pressurized room with an atmosphere sufficient to grow Potatoes.</Value>
+      <Value>創建一個壓力充足的房間，其大氣壓足以種植馬鈴薯。</Value>
     </Record>
 	<Record>
       <Key>MarsTaskGrowPotato</Key>
-      <Value>Obtain a {THING:ItemPotato}</Value>
+      <Value>獲得一個 {THING:ItemPotato}</Value>
     </Record>
 
 	<!-- Mission Stage: Spawn Mothership & Engine -->
 	<Record>
       <Key>MarsTitleCreateMothership</Key>
-      <Value>Creating a Mothership</Value>
+      <Value>創建母艦</Value>
     </Record>
 	<Record>
       <Key>MarsDescCreateMothership</Key>
-      <Value>Create a Mothership by spawning a {THING:MothershipCore} and attaching a {THING:StructureRocketEngine} to it</Value>
+      <Value>使用 {THING:MothershipCore} 創建母艦並連結上 {THING:StructureRocketEngine} </Value>
     </Record>
 	<Record>
       <Key>MarsTaskSpawnMothershipCore</Key>
-      <Value>Spawn a {THING:MothershipCore}</Value>
+      <Value>創建一個 {THING:MothershipCore}</Value>
     </Record>
 	<Record>
       <Key>MarsTaskAttachEngine</Key>
-      <Value>Attach a {THING:StructureRocketEngine} to the {THING:MothershipCore}</Value>
+      <Value>連結一個 {THING:StructureRocketEngine} 到 {THING:MothershipCore}</Value>
     </Record>
 	<Record>
       <Key>MarsTitleLaunchMothership</Key>
-      <Value>Launching a Mothership</Value>
+      <Value>發射母艦</Value>
     </Record>
 	
 	<!-- Mission Stage: Launch -->
 	<Record>
       <Key>MarsDescLaunchMothership</Key>
-      <Value>Blast off into space and reclaim your place in the skies!</Value>
+      <Value>升空，並回到你太空中的地方！</Value>
     </Record>
 	<Record>
       <Key>MarsTaskLaunchMothership</Key>
-      <Value>Launch your mothership to an altitude of 100m</Value>
+      <Value>將你的母艦發射到海拔100米</Value>
     </Record>
   </Interface>
 </Language>
