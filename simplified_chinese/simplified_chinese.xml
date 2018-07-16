@@ -325,6 +325,26 @@
     </Record>
   </Actions>
   <Things>#有新加
+  	<Record>
+      <Key>MonsterEgg</Key>#新加
+      <Value>怪物蛋</Value>
+    </Record>
+    <Record>
+      <Key>Construction Supplies 1</Key>#开局补给包 1 #新加
+      <Value>建筑用品 1</Value>
+    </Record>
+    <Record>
+      <Key>Construction Supplies 2</Key>#开局补给包 2 #新加
+      <Value>建筑用品 2</Value>
+    </Record>
+    <Record>
+      <Key>Organic Supplies</Key>#开局补给包 3 #新加
+      <Value>有机用品</Value>
+    </Record>
+    <Record>
+      <Key>Consumables Supplies</Key>#开局补给包 4 #新加
+      <Value>耗材供应</Value>
+    </Record>
     <Record>
       <Key>ApplianceMicrowave</Key>
       <Value>微波炉</Value>
@@ -667,7 +687,7 @@
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
-      <Value>空气过滤器</Value>
+      <Value>便携式空气过滤器</Value>
     </Record>
     <Record>
       <Key>EffectSplatEgg</Key>
@@ -835,63 +855,63 @@
     </Record>
     <Record>
       <Key>ItemGasCanisterCarbonDioxide</Key>
-      <Value>罐(二氧化碳)</Value>
+      <Value>气瓶(二氧化碳)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterPollutants</Key>
-      <Value>罐(污染物)</Value>
+      <Value>气瓶(污染物)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterEmpty</Key>
-      <Value>罐</Value>
+      <Value>气瓶</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterFuel</Key>
-      <Value>罐(燃料)</Value>
+      <Value>气瓶(燃料)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterVolatiles</Key>
-      <Value>罐(固态氢)</Value>
+      <Value>气瓶(固态氢)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterNitrogen</Key>
-      <Value>罐(氮)</Value>
+      <Value>气瓶(氮)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterOxygen</Key>
-      <Value>罐(氧)</Value>
+      <Value>气瓶(氧)</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterWater</Key>
-      <Value>罐(水)</Value>
+      <Value>气瓶(水)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>过滤器(二氧化碳)</Value>
+      <Value>滤芯(二氧化碳)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>过滤器(污染物)</Value>
+      <Value>滤芯(污染物)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>过滤器(氮)</Value>
+      <Value>滤芯(氮)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>过滤器(氧)</Value>
+      <Value>滤芯(氧)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>过滤器(氢)</Value>
+      <Value>滤芯(氢)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
-      <Value>过滤器(水)</Value>
+      <Value>滤芯(水)</Value>
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
-      <Value>储气罐充气槽</Value>
+      <Value>气瓶填充器</Value>
     </Record>
     <Record>
       <Key>ItemGlassSheets</Key>
@@ -919,7 +939,7 @@
     </Record>
     <Record>
       <Key>ItemHydroponicTray</Key>
-      <Value>水培托盘</Value>
+      <Value>水培盆栽</Value>
     </Record>
     <Record>
       <Key>ItemIce</Key>
@@ -947,7 +967,7 @@
     </Record>
     <Record>
       <Key>ItemKitAtmospherics</Key>#新加
-      <Value>空调/过滤/电解</Value>
+      <Value>空调机/过滤机/电解机</Value>
     </Record>
     <Record>
       <Key>ItemKitBattery</Key>
@@ -971,11 +991,11 @@
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>输送机</Value>
+      <Value>输送带</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
-      <Value>低温管</Value>
+      <Value>冷冻舱(低温管)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngine</Key>
@@ -1011,7 +1031,7 @@
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
-      <Value>卧铺</Value>
+      <Value>睡眠舱</Value>
     </Record>
     <Record>
       <Key>ItemKitSolarPanel</Key>
@@ -1027,7 +1047,7 @@
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
-      <Value>存储</Value>
+      <Value>储藏柜</Value>
     </Record>
     <Record>
       <Key>ItemKitTank</Key>
@@ -1043,7 +1063,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>墙壁</Value>
+      <Value>复合墙壁</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1147,11 +1167,11 @@
     </Record>
     <Record>
       <Key>ItemPowerConnector</Key>
-      <Value>电源连接器</Value>
+      <Value>便携式发电机连接件</Value>
     </Record>
     <Record>
       <Key>ItemReagentMix</Key>
-      <Value>试剂混合</Value>
+      <Value>未知混合物(试剂混合)</Value>
     </Record>
     <Record>
       <Key>ItemRoadFlare</Key>
@@ -1159,7 +1179,7 @@
     </Record>
     <Record>
       <Key>ItemRTG</Key>
-      <Value>同位素温差发电机</Value>
+      <Value>同位素温差发电机(RTG)</Value>
     </Record>
     <Record>
       <Key>ItemScanner</Key>
@@ -1255,7 +1275,7 @@
     </Record>
     <Record>
       <Key>ItemTankConnector</Key>
-      <Value>压力罐底座</Value>
+      <Value>底座(压力罐/便携式空气过滤器/便携式空调连接件)</Value>
     </Record>
     <Record>
       <Key>ItemToolBelt</Key>
@@ -1335,11 +1355,11 @@
     </Record>
     <Record>
       <Key>StructureAirConditioner</Key>
-      <Value>空调</Value>
+      <Value>空调机</Value>
     </Record>
     <Record>
       <Key>StructureAirlock</Key>
-      <Value>气闸舱</Value>
+      <Value>气闸门</Value>
     </Record>
     <Record>
       <Key>StructureAreaPowerControl</Key>
@@ -1363,7 +1383,7 @@
     </Record>
     <Record>
       <Key>StructureBench</Key>
-      <Value>长凳</Value>
+      <Value>工作桌</Value>
     </Record>
     <Record>
       <Key>StructureBlastDoor</Key>
@@ -1507,7 +1527,7 @@
     </Record>
     <Record>
       <Key>StructureCryoTube</Key>
-      <Value>低温管</Value>
+      <Value>冷冻舱(低温管)</Value>
     </Record>
     <Record>
       <Key>StructureDaylightSensor</Key>
@@ -1523,7 +1543,7 @@
     </Record>
     <Record>
       <Key>StructureFiltration</Key>
-      <Value>过滤</Value>
+      <Value>过滤机</Value>
     </Record>
     <Record>
       <Key>StructureFlashingLight</Key>
@@ -1555,7 +1575,7 @@
     </Record>
     <Record>
       <Key>StructureGasTankStorage</Key>
-      <Value>储气罐</Value>
+      <Value>气瓶填充器</Value>
     </Record>
     <Record>
       <Key>StructureGlassDoor</Key>
@@ -1571,7 +1591,7 @@
     </Record>
     <Record>
       <Key>StructureHydroponicsTray</Key>
-      <Value>水培托盘</Value>
+      <Value>水培盆栽</Value>
     </Record>
     <Record>
       <Key>StructureIgniter</Key>
@@ -1635,7 +1655,7 @@
     </Record>
     <Record>
       <Key>StructurePowerConnector</Key>
-      <Value>电源连接器</Value>
+      <Value>便携式发电机连接件</Value>
     </Record>
     <Record>
       <Key>StructurePressureRegulator</Key>
@@ -1663,7 +1683,7 @@
     </Record>
     <Record>
       <Key>StructureSleeper</Key>
-      <Value>轨枕</Value>
+      <Value>睡眠舱</Value>
     </Record>
     <Record>
       <Key>StructureSolarPanel</Key>
@@ -1695,7 +1715,7 @@
     </Record>
     <Record>
       <Key>StructureTankConnector</Key>
-      <Value>压力罐连接件</Value>
+      <Value>底座(压力罐/便携式空气过滤器/便携式空调连接件)</Value>
     </Record>
     <Record>
       <Key>StructureTankSmall</Key>
@@ -2251,11 +2271,11 @@
     </Record>
     <Record>
       <Key>StructureBeacon</Key>
-      <Value>信标</Value>
+      <Value>固定信标</Value>
     </Record>
     <Record>
       <Key>ItemKitBeacon</Key>
-      <Value>信标</Value>
+      <Value>固定信标</Value>
     </Record>
     <Record>
       <Key>StructureTankBig</Key>
@@ -2267,11 +2287,11 @@
     </Record>
     <Record>
       <Key>StructureGasGenerator</Key>
-      <Value>气体燃料发生器</Value>
+      <Value>气体燃料发电机</Value>
     </Record>
     <Record>
       <Key>ItemKitGasGenerator</Key>
-      <Value>气体燃料发生器</Value>
+      <Value>气体燃料发电机</Value>
     </Record>
     <Record>
       <Key>DynamicGPR</Key>
@@ -2667,19 +2687,19 @@
     </Record>
     <Record>
       <Key>ItemKitWallArch</Key>#新加
-      <Value>墙拱???城墙</Value>
+      <Value>拱角墙</Value>
     </Record>
     <Record>
       <Key>ItemKitWallFlat</Key>#新加
-      <Value>墙壁面板</Value>
+      <Value>平面墙</Value>
     </Record>
     <Record>
       <Key>ItemKitWallGeometry</Key>#新加
-      <Value>墙壁几何</Value>
+      <Value>几何墙</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>#新加
-      <Value>填充墙壁</Value>
+      <Value>填充墙</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>#新加
@@ -2803,7 +2823,7 @@
     </Record>
     <Record>
       <Key>StructureElectrolyzer</Key>#新加
-      <Value>电解器</Value>
+      <Value>电解机</Value>
     </Record>
     <Record>
       <Key>StructureElevatorShaft</Key>#新加
@@ -2847,7 +2867,7 @@
     </Record>
     <Record>
       <Key>StructureDiodeSlide</Key>#新加
-      <Value>二极管幻灯片</Value>
+      <Value>发光二极管</Value>
     </Record>
     <Record>
       <Key>ItemGasCanisterSmart</Key>#新加
@@ -2914,24 +2934,8 @@
       <Value>紧身衣头盔</Value>
     </Record>
     <Record>
-      <Key>MonsterEgg</Key>#新加
-      <Value>怪物蛋</Value>
-    </Record>
-    <Record>
-      <Key>Construction Supplies 1</Key>#开局补给包 1 #新加
-      <Value>建筑用品 1</Value>
-    </Record>
-    <Record>
-      <Key>Construction Supplies 2</Key>#开局补给包 2 #新加
-      <Value>建筑用品 2</Value>
-    </Record>
-    <Record>
-      <Key>Organic Supplies</Key>#开局补给包 3 #新加
-      <Value>有机用品</Value>
-    </Record>
-    <Record>
-      <Key>Consumables Supplies</Key>#开局补给包 4 #新加
-      <Value>耗材供应</Value>
+      <Key>ItemWearLamp</Key>#新加
+      <Value>头灯</Value>
     </Record>
   </Things>
   <Slots>#槽 有新加
@@ -2989,7 +2993,7 @@
     </Record>
     <Record>
       <Key>GasFilter</Key>
-      <Value>气体过滤器</Value>
+      <Value>气体滤芯</Value>
     </Record>
     <Record>
       <Key>AirTank</Key>
@@ -3005,7 +3009,7 @@
     </Record>
     <Record>
       <Key>Filter</Key>
-      <Value>过滤器</Value>
+      <Value>滤芯</Value>
     </Record>
     <Record>
       <Key>Tool</Key>
@@ -3255,7 +3259,7 @@
     </Record>
     <Record>
       <Key>Flush</Key>
-      <Value>泄压</Value>
+      <Value>泄压(重置)</Value>
     </Record>
     <Record>
       <Key>Battery</Key>
@@ -3448,10 +3452,6 @@
     <Record>
       <Key>Magazine</Key>#新加
       <Value>弹药库</Value>
-    </Record>
-    <Record>
-      <Key />
-      <Value />
     </Record>
     <Record>
       <Key>TemperatureUp</Key>#新加
@@ -4627,7 +4627,7 @@
     </Record>
     <Record>
       <Key>SettingsLensFlares</Key>#新加
-      <Value>镜头光斑特效</Value>
+      <Value>光斑特效</Value>
     </Record>
     <Record>
       <Key>SettingsInputSettings</Key>#新加
@@ -4640,6 +4640,14 @@
     <Record>
       <Key>SettingsTitleAudioAlerts</Key>#新加
       <Value>语音通知</Value>
+    </Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>#新加
+      <Value>关闭所有</Value>
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>#新加
+      <Value>重置窗口</Value>
     </Record>
   </Interface>
   <Colors>
@@ -4685,7 +4693,7 @@
     </Record>
     <Record>
       <Key>ColorPink</Key>
-      <Value>粉红</Value>
+      <Value>粉红色</Value>
     </Record>
     <Record>
       <Key>ColorPurple</Key>
