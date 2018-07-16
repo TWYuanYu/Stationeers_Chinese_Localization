@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Egg</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -117,7 +117,7 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Potato</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
   </Reagents>
   <Gases>
@@ -3430,10 +3430,6 @@
       <Value>Magazine</Value>
     </Record>
     <Record>
-      <Key/>
-      <Value/>
-    </Record>
-    <Record>
       <Key>TemperatureUp</Key>
       <Value>Temperature Up</Value>
     </Record>
@@ -4603,6 +4599,14 @@ Temperature {1}</Value>
       <Key>SettingsTitleAudioAlerts</Key>
       <Value>Voice Notifications</Value>
     </Record>
+    <Record>
+      <Key>InventoryCloseAll</Key>
+      <Value>Close All</Value>
+    </Record>
+    <Record>
+      <Key>ButtonResetWindows</Key>
+      <Value>Reset Windows</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4654,7 +4658,7 @@ Temperature {1}</Value>
       <Value>Purple</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4705,5 +4709,5 @@ Temperature {1}</Value>
       <Value>Silicon</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
