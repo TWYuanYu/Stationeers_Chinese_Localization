@@ -76,7 +76,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Invar</Key>
-      <Value>殷鋼 (Invar)</Value>
+      <Value>殷瓦鋼 (Invar)</Value>
       <Unit>公克(g)</Unit>
     </RecordReagent>
     <RecordReagent>
@@ -119,6 +119,11 @@
       <Value>馬鈴薯</Value>
       <Unit />
     </RecordReagent>
+    <RecordReagent>
+      <Key>Fenoxitone</Key>
+      <Value>Fenoxitone</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -143,7 +148,7 @@
     </Record>
     <Record>
       <Key>Water</Key>
-      <Value>水 H2O (Water)</Value>
+      <Value>水 (Water)</Value>
     </Record>
   </Gases>
   <Actions>
@@ -1939,7 +1944,7 @@
     </Record>
     <Record>
       <Key>ItemInvarIngot</Key>
-      <Value>鑄錠 (殷鋼 Invar)</Value>
+      <Value>鑄錠 (殷瓦鋼 Invar)</Value>
     </Record>
     <Record>
       <Key>ItemConstantanIngot</Key>
@@ -2912,6 +2917,54 @@
     <Record>
       <Key>ItemWearLamp</Key>
       <Value>頭燈</Value>
+    </Record>
+    <Record>
+      <Key>StructureTurbineGenerator</Key>
+      <Value>渦輪發電機</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitTurbineGenerator</Key>
+      <Value>渦輪發電機</Value>
+    </Record>
+    <Record>
+      <Key>ReagentSilver</Key>
+      <Value>銀粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentPotassiumIodide</Key>
+      <Value>碘化鉀粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentInvar</Key>
+      <Value>殷瓦鋼粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentElectrum</Key>
+      <Value>琥珀金粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentGold</Key>
+      <Value>金粉末</Value>
+    </Record>
+    <Record>
+      <Key>StructureUnloader</Key>
+      <Value>出料機</Value>
+    </Record>
+    <Record>
+      <Key>ReagentFenoxitone</Key>
+      <Value>Fenoxitone 粉末</Value>
+    </Record>
+    <Record>
+      <Key>StructurePlatformLadderOpen</Key>
+      <Value>攀梯平台</Value>
+    </Record>
+    <Record>
+      <Key>StructureLadderEnd</Key>
+      <Value>攀梯頂部掛勾</Value>
+    </Record>
+    <Record>
+      <Key>StructureLockerSmall</Key>
+      <Value>置物櫃 (小型)</Value>
     </Record>
   </Things>
   <Slots>
