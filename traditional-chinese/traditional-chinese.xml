@@ -2428,7 +2428,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAdvancedAirlockControl</Key>
-      <Value>電路板 (進階器閘門控制)</Value>
+      <Value>電路板 (進階氣閘門控制)</Value>
     </Record>
     <Record>
       <Key>ItemKitOrganicsPrinter</Key>
@@ -2965,6 +2965,14 @@
     <Record>
       <Key>StructureLockerSmall</Key>
       <Value>置物櫃 (小型)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchSlotReader</Key>
+      <Value>批次插槽讀取器</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardAdvAirlockControl</Key>
+      <Value>電路板 (進階氣閘)</Value>
     </Record>
   </Things>
   <Slots>
@@ -4659,6 +4667,38 @@
     <Record>
       <Key>ButtonResetWindows</Key>
       <Value>重啟視窗</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionFiltered</Key>
+      <Value>過濾</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionUnfiltered</Key>
+      <Value>未過濾</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionInput</Key>
+      <Value>輸入</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionOutput</Key>
+      <Value>輸出</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionWaste</Key>
+      <Value>耗費</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionBreathing</Key>
+      <Value>呼吸</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionPropellant</Key>
+      <Value>推進劑</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>
+      <Value>渲染塊距離</Value>
     </Record>
   </Interface>
   <Colors>
