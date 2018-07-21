@@ -20,7 +20,7 @@
     </Record>
     <Record>
       <Key>Return</Key>
-      <Value>Return</Value>
+      <Value>Enter</Value>
     </Record>
     <Record>
       <Key>Pause</Key>
@@ -28,11 +28,11 @@
     </Record>
     <Record>
       <Key>Escape</Key>
-      <Value>Escape</Value>
+      <Value>Esc</Value>
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>Space</Value>
+      <Value>空白鍵</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -180,7 +180,7 @@
     </Record>
     <Record>
       <Key>BackQuote</Key>
-      <Value>Back Quote</Value>
+      <Value>`</Value>
     </Record>
     <Record>
       <Key>A</Key>
@@ -557,15 +557,15 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>Left Mouse</Value>
+      <Value>滑鼠左鍵</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>Right Mouse</Value>
+      <Value>滑鼠右鍵</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>Middle Mouse</Value>
+      <Value>滑鼠中鍵</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
