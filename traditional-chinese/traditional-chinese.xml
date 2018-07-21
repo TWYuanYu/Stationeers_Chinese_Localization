@@ -1240,7 +1240,7 @@
     </Record>
     <Record>
       <Key>ItemSteelFrames</Key>
-      <Value>鋼框架</Value>
+      <Value>套件 鋼框架</Value>
     </Record>
     <Record>
       <Key>ItemSteelIngot</Key>
@@ -1900,7 +1900,7 @@
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
-      <Value>鐵框架</Value>
+      <Value>套件 鐵框架</Value>
     </Record>
     <Record>
       <Key>ItemIronFrames</Key>
