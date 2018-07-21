@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Egg</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -117,7 +117,7 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Potato</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
@@ -576,7 +576,7 @@
     </Record>
     <Record>
       <Key>CircuitboardAirlockControl</Key>
-      <Value>Circuitboard (Airlock Control)</Value>
+      <Value>Circuitboard (Airlock)</Value>
     </Record>
     <Record>
       <Key>CircuitboardCameraDisplay</Key>
@@ -2966,6 +2966,34 @@
       <Key>StructureLockerSmall</Key>
       <Value>Locker (Small)</Value>
     </Record>
+    <Record>
+      <Key>StructureLogicBatchSlotReader</Key>
+      <Value>Batch Slot Reader</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardAdvAirlockControl</Key>
+      <Value>Circuitboard (Advanced Airlock)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitPressurePlate</Key>
+      <Value>Kit (Trigger Plate)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateLarge</Key>
+      <Value>Trigger Plate (Large)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateMedium</Key>
+      <Value>Trigger Plate (Medium)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateSmall</Key>
+      <Value>Trigger Plate (Small)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicCanister</Key>
+      <Value>Kit (Portable Tank)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -4660,6 +4688,38 @@ Temperature {1}</Value>
       <Key>ButtonResetWindows</Key>
       <Value>Reset Windows</Value>
     </Record>
+    <Record>
+      <Key>ConnectionFiltered</Key>
+      <Value>Filtered</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionUnfiltered</Key>
+      <Value>Unfiltered</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionInput</Key>
+      <Value>Input</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionOutput</Key>
+      <Value>Output</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionWaste</Key>
+      <Value>Waste</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionBreathing</Key>
+      <Value>Breathing</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionPropellant</Key>
+      <Value>Propellant</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>
+      <Value>Chunk Render Distance</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4711,7 +4771,7 @@ Temperature {1}</Value>
       <Value>Purple</Value>
     </Record>
   </Colors>
-  <Keys />
+  <Keys/>
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4762,5 +4822,5 @@ Temperature {1}</Value>
       <Value>Silicon</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>
