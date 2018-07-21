@@ -32,7 +32,7 @@
     </Record>
     <Record>
       <Key>Space</Key>
-      <Value>空白鍵</Value>
+      <Value>Space</Value>
     </Record>
     <Record>
       <Key>Exclaim</Key>
@@ -557,15 +557,15 @@
     </Record>
     <Record>
       <Key>Mouse0</Key>
-      <Value>滑鼠左鍵</Value>
+      <Value>Left Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse1</Key>
-      <Value>滑鼠右鍵</Value>
+      <Value>Right Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse2</Key>
-      <Value>滑鼠中鍵</Value>
+      <Value>Middle Mouse</Value>
     </Record>
     <Record>
       <Key>Mouse3</Key>
