@@ -121,7 +121,7 @@
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
-      <Value>Fenoxitone</Value>
+      <Value>苯氧酮</Value>
       <Unit>公克(g)</Unit>
     </RecordReagent>
   </Reagents>
@@ -2952,7 +2952,7 @@
     </Record>
     <Record>
       <Key>ReagentFenoxitone</Key>
-      <Value>Fenoxitone 粉末</Value>
+      <Value>苯氧酮粉末</Value>
     </Record>
     <Record>
       <Key>StructurePlatformLadderOpen</Key>
@@ -2973,6 +2973,26 @@
     <Record>
       <Key>CircuitboardAdvAirlockControl</Key>
       <Value>電路板 (進階氣閘)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitPressurePlate</Key>
+      <Value>套件 觸發板</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateLarge</Key>
+      <Value>觸發板 (大型)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateMedium</Key>
+      <Value>觸發板 (中型)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateSmall</Key>
+      <Value>觸發板 (小型)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicCanister</Key>
+      <Value>便攜式壓力槽</Value>
     </Record>
   </Things>
   <Slots>
