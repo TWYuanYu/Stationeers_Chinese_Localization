@@ -119,6 +119,11 @@
       <Value>土豆</Value>
       <Unit/>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Fenoxitone</Key>#新加
+      <Value>苯氧酮</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>#气体
     <Record>
@@ -1011,7 +1016,7 @@
     </Record>
     <Record>
       <Key>ItemKitFurniture</Key>
-      <Value>家具</Value>
+      <Value>家具(椅子/工作桌/控制椅)</Value>
     </Record>
     <Record>
       <Key>ItemKitGyroscope</Key>
@@ -1599,7 +1604,7 @@
     </Record>
     <Record>
       <Key>StructureLocker</Key>
-      <Value>更衣室/储藏柜</Value>
+      <Value>储藏柜</Value>
     </Record>
     <Record>
       <Key>StructureMotionSensor</Key>
@@ -2027,7 +2032,7 @@
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
-      <Value>更衣室/储藏柜</Value>
+      <Value>储藏柜</Value>
     </Record>
     <Record>
       <Key>SpawnPoint</Key>
@@ -2055,7 +2060,7 @@
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>更衣室/储藏柜</Value>
+      <Value>储藏柜大/小</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
@@ -2103,7 +2108,7 @@
     </Record>
     <Record>
       <Key>ItemKitStacker</Key>
-      <Value>堆垛机</Value>
+      <Value>堆垛机/卸料机/卸载机</Value>
     </Record>
     <Record>
       <Key>CartridgeTracker</Key>
@@ -2499,7 +2504,7 @@
     </Record>
     <Record>
       <Key>ItemKitLadder</Key>#新加
-      <Value>梯子</Value>
+      <Value>梯子/梯子顶端/梯子平台</Value>
     </Record>
     <Record>
       <Key>StructureFrameCornerCut</Key>#新加
@@ -2936,6 +2941,82 @@
     <Record>
       <Key>ItemWearLamp</Key>#新加
       <Value>头灯</Value>
+    </Record>
+    <Record>
+      <Key>StructureTurbineGenerator</Key>#新加
+      <Value>涡轮发电机</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitTurbineGenerator</Key>#新加
+      <Value>涡轮发电机</Value>
+    </Record>
+    <Record>
+      <Key>ReagentSilver</Key>#新加
+      <Value>银粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentPotassiumIodide</Key>#新加
+      <Value>碘化钾粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentInvar</Key>#新加
+      <Value>殷钢粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentElectrum</Key>#新加
+      <Value>琥珀金粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentGold</Key>#新加
+      <Value>金粉末</Value>
+    </Record>
+    <Record>
+      <Key>StructureUnloader</Key>#新加
+      <Value>卸料机/卸载机</Value>
+    </Record>
+    <Record>
+      <Key>ReagentFenoxitone</Key>#新加
+      <Value>苯氧酮粉末</Value>
+    </Record>
+    <Record>
+      <Key>StructurePlatformLadderOpen</Key>#新加
+      <Value>梯子平台</Value>
+    </Record>
+    <Record>
+      <Key>StructureLadderEnd</Key>#新加
+      <Value>梯子顶端</Value>
+    </Record>
+    <Record>
+      <Key>StructureLockerSmall</Key>#新加
+      <Value>储藏柜(小)</Value>
+    </Record>
+    <Record>
+      <Key>StructureLogicBatchSlotReader</Key>#新加
+      <Value>插槽批量读取</Value>
+    </Record>
+    <Record>
+      <Key>CircuitboardAdvAirlockControl</Key>#新加
+      <Value>电路板(高级气闸控制)</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitPressurePlate</Key>#新加
+      <Value>触发板(大/中/小)</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateLarge</Key>#新加
+      <Value>触发板大</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateMedium</Key>#新加
+      <Value>触发板中</Value>
+    </Record>
+    <Record>
+      <Key>StructurePressurePlateSmall</Key>#新加
+      <Value>触发板小</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicCanister</Key>#新加
+      <Value>便携式储罐</Value>
     </Record>
   </Things>
   <Slots>#槽 有新加
@@ -4648,6 +4729,38 @@
     <Record>
       <Key>ButtonResetWindows</Key>#新加
       <Value>重置窗口</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionFiltered</Key>#新加
+      <Value>过滤</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionUnfiltered</Key>#新加
+      <Value>未过滤</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionInput</Key>#新加
+      <Value>输入</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionOutput</Key>#新加
+      <Value>输出</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionWaste</Key>#新加
+      <Value>废物</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionBreathing</Key>#新加
+      <Value>呼吸</Value>
+    </Record>
+    <Record>
+      <Key>ConnectionPropellant</Key>#新加
+      <Value>推进剂</Value>
+    </Record>
+    <Record>
+      <Key>SettingsChunkRenderDistance</Key>#新加
+      <Value>块渲染距离</Value>
     </Record>
   </Interface>
   <Colors>
