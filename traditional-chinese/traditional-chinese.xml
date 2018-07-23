@@ -668,7 +668,7 @@
     </Record>
     <Record>
       <Key>DynamicLight</Key>
-      <Value>可攜式燈具</Value>
+      <Value>便攜式燈具</Value>
     </Record>
     <Record>
       <Key>DynamicScrubber</Key>
@@ -2308,7 +2308,7 @@
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
-      <Value>可攜式太陽能板</Value>
+      <Value>便攜式太陽能板</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction5</Key>
@@ -2992,7 +2992,7 @@
     </Record>
     <Record>
       <Key>ItemKitDynamicCanister</Key>
-      <Value>便攜式壓力槽</Value>
+      <Value>可攜式壓力罐</Value>
     </Record>
   </Things>
   <Slots>
