@@ -4720,6 +4720,18 @@
       <Key>SettingsChunkRenderDistance</Key>
       <Value>渲染塊距離</Value>
     </Record>
+    <Record>
+      <Key>ScenarioScoreboardBackToMenu</Key>
+      <Value>離開至主選單</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardReturnToGame</Key>
+      <Value>返回遊戲</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardHeading</Key>
+      <Value>場景完成</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
