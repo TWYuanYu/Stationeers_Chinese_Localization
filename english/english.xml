@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Egg</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -117,7 +117,7 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Potato</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
@@ -4720,6 +4720,18 @@ Temperature {1}</Value>
       <Key>SettingsChunkRenderDistance</Key>
       <Value>Chunk Render Distance</Value>
     </Record>
+    <Record>
+      <Key>ScenarioScoreboardBackToMenu</Key>
+      <Value>Exit To Menu</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardReturnToGame</Key>
+      <Value>Return to Game</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardHeading</Key>
+      <Value>Scenario Complete</Value>
+    </Record>
   </Interface>
   <Colors>
     <Record>
@@ -4771,7 +4783,7 @@ Temperature {1}</Value>
       <Value>Purple</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4822,5 +4834,5 @@ Temperature {1}</Value>
       <Value>Silicon</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
