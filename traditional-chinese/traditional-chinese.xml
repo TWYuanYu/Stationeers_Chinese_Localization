@@ -124,6 +124,31 @@
       <Value>苯氧酮</Value>
       <Unit>公克(g)</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>ColorRed</Key>
+      <Value>色素 (紅色)</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorGreen</Key>
+      <Value>色素 (綠色)</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorBlue</Key>
+      <Value>色素 (藍色)</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorYellow</Key>
+      <Value>色素 (黃色)</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorOrange</Key>
+      <Value>色素 (橘色)</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -140,7 +165,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>揮發石 (Volatiles)</Value>
+      <Value>氫氣 (Hydrogen)</Value>
     </Record>
     <Record>
       <Key>Pollutant</Key>
@@ -872,27 +897,27 @@
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>濾心 (二氧化碳 CarbonDioxide)</Value>
+      <Value>初階濾心 (二氧化碳 CarbonDioxide)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>濾心 (汙染物 Pollutant)</Value>
+      <Value>初階濾心 (汙染物 Pollutant)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>濾心 (氮氣 Nitrogen)</Value>
+      <Value>初階濾心 (氮氣 Nitrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>濾心 (氧氣 Oxygen)</Value>
+      <Value>初階濾心 (氧氣 Oxygen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>濾心 (氫氣 Hydrogen)</Value>
+      <Value>初階濾心 (氫氣 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
-      <Value>濾心 (水 Water)</Value>
+      <Value>初階濾心 (水 Water)</Value>
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
@@ -1800,43 +1825,43 @@
     </Record>
     <Record>
       <Key>StructureCableStraightH</Key>
-      <Value>大功率電纜 (直線)</Value>
+      <Value>粗電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH6</Key>
-      <Value>大功率電纜 (六向)</Value>
+      <Value>粗電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH4</Key>
-      <Value>大功率電纜 (十字)</Value>
+      <Value>粗電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH</Key>
-      <Value>大功率電纜 (T字)</Value>
+      <Value>粗電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction6HBurnt</Key>
-      <Value>燒毀的大功率電纜 (六向)</Value>
+      <Value>燒毀的粗電纜 (六向)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunction4HBurnt</Key>
-      <Value>燒毀的大功率電纜 (十字)</Value>
+      <Value>燒毀的粗電纜 (十字)</Value>
     </Record>
     <Record>
       <Key>StructureCableStraightHBurnt</Key>
-      <Value>燒毀的大功率電纜 (直線)</Value>
+      <Value>燒毀的粗電纜 (直線)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionHBurnt</Key>
-      <Value>燒毀的大功率電纜 (T字)</Value>
+      <Value>燒毀的粗電纜 (T字)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerHBurnt</Key>
-      <Value>燒毀的大功率電纜 (轉角)</Value>
+      <Value>燒毀的粗電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH</Key>
-      <Value>大功率電纜 (轉角)</Value>
+      <Value>粗電纜 (轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableFuse1k</Key>
@@ -1896,7 +1921,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>大功率電纜</Value>
+      <Value>粗電纜</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -1992,7 +2017,7 @@
     </Record>
     <Record>
       <Key>ItemVolatiles</Key>
-      <Value>冰塊 (Volatiles 揮發石)</Value>
+      <Value>冰塊 (Hydrogen 氫氣石)</Value>
     </Record>
     <Record>
       <Key>ItemOxite</Key>
@@ -2296,15 +2321,15 @@
     </Record>
     <Record>
       <Key>StructureCableCornerH3</Key>
-      <Value>大功率電纜 (3向轉角)</Value>
+      <Value>粗電纜 (3向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCornerH4</Key>
-      <Value>大功率電纜 (4向轉角)</Value>
+      <Value>粗電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>StructureCableCorner4HBurnt</Key>
-      <Value>燒毀的大功率電纜 (4向轉角)</Value>
+      <Value>燒毀的粗電纜 (4向轉角)</Value>
     </Record>
     <Record>
       <Key>PortableSolarPanel</Key>
@@ -2328,11 +2353,11 @@
     </Record>
     <Record>
       <Key>StructureCableJunctionH5</Key>
-      <Value>大功率電纜 (5向連接)</Value>
+      <Value>粗電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>StructureCableJunctionH5Burnt</Key>
-      <Value>燒毀的大功率電纜 (5向連接)</Value>
+      <Value>燒毀的粗電纜 (5向連接)</Value>
     </Record>
     <Record>
       <Key>WallFrameCornerCut</Key>
@@ -2993,6 +3018,102 @@
     <Record>
       <Key>ItemKitDynamicCanister</Key>
       <Value>可攜式壓力罐</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerBlue</Key>
+      <Value>花朵 (藍色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerOrange</Key>
+      <Value>花朵 (橘色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerRed</Key>
+      <Value>花朵 (紅色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerYellow</Key>
+      <Value>花朵 (黃色)</Value>
+    </Record>
+    <Record>
+      <Key>AppliancePaintMixer</Key>
+      <Value>顏料攪拌機</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorBlue</Key>
+      <Value>染料 (藍色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentCarbon</Key>
+      <Value>碳粉末</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorGreen</Key>
+      <Value>染料 (綠色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorOrange</Key>
+      <Value>染料 (橘色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorRed</Key>
+      <Value>染料 (紅色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorYellow</Key>
+      <Value>染料 (黃色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerGreen</Key>
+      <Value>花朵 (綠色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideL</Key>
+      <Value>高階濾心 (二氧化碳 CarbonDioxide)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideM</Key>
+      <Value>中階濾心 (二氧化碳 CarbonDioxide)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenL</Key>
+      <Value>高階濾心 (氮氣 Nitrogen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenM</Key>
+      <Value>中階濾心 (氮氣 Nitrogen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenL</Key>
+      <Value>高階濾心 (氧氣 Oxygen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenM</Key>
+      <Value>中階濾心 (氧氣 Oxygen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsL</Key>
+      <Value>高階濾心 (汙染物 Pollutant)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsM</Key>
+      <Value>中階濾心 (汙染物 Pollutant)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesL</Key>
+      <Value>高階濾心 (氫氣 Hydrogen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesM</Key>
+      <Value>中階濾心 (氫氣 Hydrogen)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterL</Key>
+      <Value>高階濾心 (水 Water)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterM</Key>
+      <Value>中階濾心 (水 Water)</Value>
     </Record>
   </Things>
   <Slots>
@@ -4799,7 +4920,7 @@
     </Record>
     <Record>
       <Key>Volatiles</Key>
-      <Value>冰塊 (揮發石 Volatiles)</Value>
+      <Value>冰塊 (氫氣石 Hydrogen)</Value>
     </Record>
     <Record>
       <Key>Gold</Key>
