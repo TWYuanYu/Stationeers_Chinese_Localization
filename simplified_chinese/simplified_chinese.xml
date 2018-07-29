@@ -124,6 +124,31 @@
       <Value>苯氧酮</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>ColorRed</Key>#新加
+      <Value>红色着色剂</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorGreen</Key>#新加
+      <Value>绿色着色剂</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorBlue</Key>#新加
+      <Value>蓝色着色剂</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorYellow</Key>#新加
+      <Value>黄色着色剂</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>ColorOrange</Key>#新加
+      <Value>橙色着色剂</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>#气体
     <Record>
@@ -760,7 +785,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoil</Key>
-      <Value>电缆线圈</Value>
+      <Value>电缆线圈(8种)</Value>
     </Record>
     <Record>
       <Key>ItemChemLightBlue</Key>
@@ -788,7 +813,7 @@
     </Record>
     <Record>
       <Key>ItemCompositeFloorGrating</Key>#新加
-      <Value>复合地板格栅</Value>
+      <Value>复合地板格栅(4种)</Value>
     </Record>
     <Record>
       <Key>ItemCopperIngot</Key>
@@ -892,27 +917,27 @@
     </Record>
     <Record>
       <Key>ItemGasFilterCarbonDioxide</Key>
-      <Value>滤芯(二氧化碳)</Value>
+      <Value>次级滤芯(二氧化碳)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterPollutants</Key>
-      <Value>滤芯(污染物)</Value>
+      <Value>次级滤芯(污染物)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterNitrogen</Key>
-      <Value>滤芯(氮)</Value>
+      <Value>次级滤芯(氮)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterOxygen</Key>
-      <Value>滤芯(氧)</Value>
+      <Value>次级滤芯(氧)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterVolatiles</Key>
-      <Value>滤芯(氢)</Value>
+      <Value>次级滤芯(氢)</Value>
     </Record>
     <Record>
       <Key>ItemGasFilterWater</Key>
-      <Value>滤芯(水)</Value>
+      <Value>次级滤芯(水)</Value>
     </Record>
     <Record>
       <Key>ItemGasTankStorage</Key>
@@ -984,7 +1009,7 @@
     </Record>
     <Record>
       <Key>ItemKitChute</Key>
-      <Value>滑槽</Value>
+      <Value>滑槽(7种)</Value>
     </Record>
     <Record>
       <Key>ItemKitComputer</Key>
@@ -992,11 +1017,11 @@
     </Record>
     <Record>
       <Key>ItemKitConsole</Key>
-      <Value>控制台</Value>
+      <Value>控制台/LED显示屏(6种)</Value>
     </Record>
     <Record>
       <Key>ItemKitConveyor</Key>
-      <Value>输送带</Value>
+      <Value>输送带(7种)</Value>
     </Record>
     <Record>
       <Key>ItemKitCryoTube</Key>
@@ -1024,15 +1049,15 @@
     </Record>
     <Record>
       <Key>ItemKitRegulator</Key>
-      <Value>压力调节器</Value>
+      <Value>压力调节器/背压调节器</Value>
     </Record>
     <Record>
       <Key>ItemKitSensor</Key>
-      <Value>传感器</Value>
+      <Value>传感器(日光/运动/气体)</Value>
     </Record>
     <Record>
       <Key>ItemKitSign</Key>
-      <Value>标志</Value>
+      <Value>标志(大/小)</Value>
     </Record>
     <Record>
       <Key>ItemKitSleeper</Key>
@@ -1052,7 +1077,7 @@
     </Record>
     <Record>
       <Key>ItemKitStorage</Key>
-      <Value>储藏柜</Value>
+      <Value>储藏柜(大/小)</Value>
     </Record>
     <Record>
       <Key>ItemKitTank</Key>
@@ -1068,7 +1093,7 @@
     </Record>
     <Record>
       <Key>ItemKitWall</Key>
-      <Value>复合墙壁</Value>
+      <Value>复合墙壁/复合窗/栏杆</Value>
     </Record>
     <Record>
       <Key>ItemLabeller</Key>
@@ -1260,7 +1285,7 @@
     </Record>
     <Record>
       <Key>ItemSteelFrames</Key>
-      <Value>钢框架</Value>
+      <Value>钢框架(4种)</Value>
     </Record>
     <Record>
       <Key>ItemSteelIngot</Key>
@@ -1300,7 +1325,7 @@
     </Record>
     <Record>
       <Key>ItemWallLight</Key>
-      <Value>灯</Value>
+      <Value>灯(6种)</Value>
     </Record>
     <Record>
       <Key>ItemWeldingTorch</Key>
@@ -1460,7 +1485,7 @@
     </Record>
     <Record>
       <Key>StructureCompositeFloorGrating</Key>#新加
-      <Value>复合地板格栅</Value>
+      <Value>复合地板格栅 1</Value>
     </Record>
     <Record>
       <Key>StructureCompositeWall</Key>#新加
@@ -1556,15 +1581,15 @@
     </Record>
     <Record>
       <Key>StructureFrame</Key>
-      <Value>框架</Value>
+      <Value>钢框架</Value>
     </Record>
     <Record>
       <Key>StructureFrameCorner</Key>
-      <Value>框架(角落)</Value>
+      <Value>钢框架(角落)</Value>
     </Record>
     <Record>
       <Key>StructureFrameSide</Key>
-      <Value>框架(侧面)</Value>
+      <Value>钢框架(侧面)</Value>
     </Record>
     <Record>
       <Key>StructureFurnace</Key>
@@ -1912,7 +1937,7 @@
     </Record>
     <Record>
       <Key>ItemKitPipe</Key>
-      <Value>管道</Value>
+      <Value>管道(8种)</Value>
     </Record>
     <Record>
       <Key>CartridgeElectronicReader</Key>
@@ -1920,7 +1945,7 @@
     </Record>
     <Record>
       <Key>ItemCableCoilHeavy</Key>
-      <Value>电缆线圈(沉重)</Value>
+      <Value>电缆线圈(沉重)(8种)</Value>
     </Record>
     <Record>
       <Key>StructureFrameIron</Key>
@@ -2028,7 +2053,7 @@
     </Record>
     <Record>
       <Key>ItemKitWallIron</Key>
-      <Value>铁墙</Value>
+      <Value>铁墙/铁窗</Value>
     </Record>
     <Record>
       <Key>StructureStorageLocker</Key>
@@ -2060,7 +2085,7 @@
     </Record>
     <Record>
       <Key>ItemKitLocker</Key>
-      <Value>储藏柜大/小</Value>
+      <Value>储藏柜(大/小)</Value>
     </Record>
     <Record>
       <Key>ItemKitEngineSmall</Key>
@@ -2168,7 +2193,7 @@
     </Record>
     <Record>
       <Key>ItemKitLogicProcessor</Key>
-      <Value>逻辑处理器</Value>
+      <Value>逻辑处理器(5种)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicMemory</Key>
@@ -2176,11 +2201,11 @@
     </Record>
     <Record>
       <Key>ItemKitLogicInputOutput</Key>
-      <Value>逻辑I/O</Value>
+      <Value>逻辑I/O(8种)</Value>
     </Record>
     <Record>
       <Key>ItemKitLogicSwitch</Key>
-      <Value>逻辑开关</Value>
+      <Value>逻辑开关(4种)</Value>
     </Record>
     <Record>
       <Key>StructureLogicSwitch</Key>
@@ -2360,7 +2385,7 @@
     </Record>
     <Record>
       <Key>WallFrameCornerCut</Key>#新加
-      <Value>框架(切角)</Value>
+      <Value>钢框架(切角)</Value>
     </Record>
     <Record>
       <Key>StructureFlagSmall</Key>#新加
@@ -2420,7 +2445,7 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeCladding</Key>#新加
-      <Value>复合包层</Value>
+      <Value>复合包层(14种)</Value>
     </Record>
     <Record>
       <Key>StructureCompositeCladdingAngledCornerLongR</Key>#新加
@@ -2432,7 +2457,7 @@
     </Record>
     <Record>
       <Key>ItemKitDockingPort</Key>#新加
-      <Value>飞船对接端口</Value>
+      <Value>飞船对接端口(2种)</Value>
     </Record>
     <Record>
       <Key>StructureDockShipSide</Key>#新加
@@ -2496,7 +2521,7 @@
     </Record>
     <Record>
       <Key>ItemKitCompositeFloorGrating</Key>#新加
-      <Value>地板格栅</Value>
+      <Value>地板格栅(4种)</Value>
     </Record>
     <Record>
       <Key>CompositeRollCover</Key>#新加
@@ -2508,7 +2533,7 @@
     </Record>
     <Record>
       <Key>StructureFrameCornerCut</Key>#新加
-      <Value>框架(缺一角)</Value>
+      <Value>钢框架(缺一角)</Value>
     </Record>
     <Record>
       <Key>CompositeWallPanelling1</Key>#新加
@@ -2692,19 +2717,19 @@
     </Record>
     <Record>
       <Key>ItemKitWallArch</Key>#新加
-      <Value>拱角墙</Value>
+      <Value>拱角墙(4种)</Value>
     </Record>
     <Record>
       <Key>ItemKitWallFlat</Key>#新加
-      <Value>平面墙</Value>
+      <Value>平面墙(8种)</Value>
     </Record>
     <Record>
       <Key>ItemKitWallGeometry</Key>#新加
-      <Value>几何墙</Value>
+      <Value>几何墙(3种)</Value>
     </Record>
     <Record>
       <Key>ItemKitWallPadded</Key>#新加
-      <Value>填充墙</Value>
+      <Value>填充墙(6种)</Value>
     </Record>
     <Record>
       <Key>StructureLadder</Key>#新加
@@ -2836,7 +2861,7 @@
     </Record>
     <Record>
       <Key>ItemKitElevator</Key>#新加
-      <Value>电梯</Value>
+      <Value>电梯(2种)</Value>
     </Record>
     <Record>
       <Key>ElevatorCarrage</Key>#新加
@@ -2912,11 +2937,11 @@
     </Record>
     <Record>
       <Key>StructureVendingMachine</Key>#新加
-      <Value>自动售货机</Value>
+      <Value>自动售货机/智能货柜</Value>
     </Record>
     <Record>
       <Key>ItemKitVendingMachine</Key>#新加
-      <Value>自动售货机</Value>
+      <Value>自动售货机/智能货柜</Value>
     </Record>
     <Record>
       <Key>StructureLogicSlotReader</Key>#新加
@@ -3017,6 +3042,102 @@
     <Record>
       <Key>ItemKitDynamicCanister</Key>#新加
       <Value>便携式储罐</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerBlue</Key>#新加
+      <Value>蓝花</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerOrange</Key>#新加
+      <Value>橙花</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerRed</Key>#新加
+      <Value>红花</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerYellow</Key>#新加
+      <Value>黄花</Value>
+    </Record>
+    <Record>
+      <Key>AppliancePaintMixer</Key>#新加
+      <Value>涂料混合器</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorBlue</Key>#新加
+      <Value>彩色染料(蓝色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentCarbon</Key>#新加
+      <Value>碳粉</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorGreen</Key>#新加
+      <Value>彩色染料(绿色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorOrange</Key>#新加
+      <Value>彩色染料(橙色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorRed</Key>#新加
+      <Value>彩色染料(红色)</Value>
+    </Record>
+    <Record>
+      <Key>ReagentColorYellow</Key>#新加
+      <Value>彩色染料(黄色)</Value>
+    </Record>
+    <Record>
+      <Key>ItemFlowerGreen</Key>#新加
+      <Value>绿花</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideL</Key>#新加
+      <Value>高级滤芯(二氧化碳)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterCarbonDioxideM</Key>#新加
+      <Value>中级滤芯(二氧化碳)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenL</Key>#新加
+      <Value>高级滤芯(氮)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterNitrogenM</Key>#新加
+      <Value>中级滤芯(氮)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenL</Key>#新加
+      <Value>高级滤芯(氧)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterOxygenM</Key>#新加
+      <Value>中级滤芯(氧)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsL</Key>#新加
+      <Value>高级滤芯(污染物)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterPollutantsM</Key>#新加
+      <Value>中级滤芯(污染物)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesL</Key>#新加
+      <Value>高级滤芯(氢)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterVolatilesM</Key>#新加
+      <Value>中级滤芯(氢)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterL</Key>#新加
+      <Value>高级滤芯(水)</Value>
+    </Record>
+    <Record>
+      <Key>ItemGasFilterWaterM</Key>#新加
+      <Value>中级滤芯(水)</Value>
     </Record>
   </Things>
   <Slots>#槽 有新加
@@ -4761,6 +4882,18 @@
     <Record>
       <Key>SettingsChunkRenderDistance</Key>#新加
       <Value>块渲染距离</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardBackToMenu</Key>#新加
+      <Value>退出到菜单</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardReturnToGame</Key>#新加
+      <Value>返回游戏</Value>
+    </Record>
+    <Record>
+      <Key>ScenarioScoreboardHeading</Key>#新加
+      <Value>场景完成</Value>
     </Record>
   </Interface>
   <Colors>
