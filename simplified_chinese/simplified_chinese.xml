@@ -149,6 +149,16 @@
       <Value>橙色着色剂</Value>
       <Unit>g</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Pumpkin</Key>#新加
+      <Value>南瓜</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>#新加
+      <Value>水稻</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>#气体
     <Record>
@@ -3138,6 +3148,22 @@
     <Record>
       <Key>ItemGasFilterWaterM</Key>#新加
       <Value>中级滤芯(水)</Value>
+    </Record>
+    <Record>
+      <Key>ItemMushroom</Key>#新加
+      <Value>蘑菇</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkin</Key>#新加
+      <Value>南瓜</Value>
+    </Record>
+    <Record>
+      <Key>ItemRice</Key>#新加
+      <Value>水稻</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkinPie</Key>#新加
+      <Value>南瓜派</Value>
     </Record>
   </Things>
   <Slots>#槽 有新加
