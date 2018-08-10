@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Egg</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -117,7 +117,7 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Potato</Value>
-      <Unit />
+      <Unit/>
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
@@ -147,6 +147,16 @@
     <RecordReagent>
       <Key>ColorOrange</Key>
       <Value>Orange Coloring</Value>
+      <Unit>g</Unit>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Pumpkin</Key>
+      <Value>Pumpkin</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>
+      <Value>Rice</Value>
       <Unit>g</Unit>
     </RecordReagent>
   </Reagents>
@@ -3115,6 +3125,22 @@
       <Key>ItemGasFilterWaterM</Key>
       <Value>Medium Filter (Water)</Value>
     </Record>
+    <Record>
+      <Key>ItemMushroom</Key>
+      <Value>Mushroom</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkin</Key>
+      <Value>Pumpkin</Value>
+    </Record>
+    <Record>
+      <Key>ItemRice</Key>
+      <Value>Rice</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkinPie</Key>
+      <Value>Pumpkin Pie</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -4904,7 +4930,7 @@ Temperature {1}</Value>
       <Value>Purple</Value>
     </Record>
   </Colors>
-  <Keys />
+  <Keys/>
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4955,5 +4981,5 @@ Temperature {1}</Value>
       <Value>Silicon</Value>
     </Record>
   </Mineables>
-  <GameTip />
+  <GameTip/>
 </Language>
