@@ -149,6 +149,16 @@
       <Value>色素 (橘色)</Value>
       <Unit>公克(g)</Unit>
     </RecordReagent>
+    <RecordReagent>
+      <Key>Pumpkin</Key>
+      <Value>南瓜</Value>
+      <Unit/>
+    </RecordReagent>
+    <RecordReagent>
+      <Key>Rice</Key>
+      <Value>稻米</Value>
+      <Unit>公克(g)</Unit>
+    </RecordReagent>
   </Reagents>
   <Gases>
     <Record>
@@ -3114,6 +3124,22 @@
     <Record>
       <Key>ItemGasFilterWaterM</Key>
       <Value>中階濾心 (水 Water)</Value>
+    </Record>
+    <Record>
+      <Key>ItemMushroom</Key>
+      <Value>蘑菇</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkin</Key>
+      <Value>南瓜</Value>
+    </Record>
+    <Record>
+      <Key>ItemRice</Key>
+      <Value>稻米</Value>
+    </Record>
+    <Record>
+      <Key>ItemPumpkinPie</Key>
+      <Value>南瓜派</Value>
     </Record>
   </Things>
   <Slots>
