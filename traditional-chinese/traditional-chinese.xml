@@ -2943,11 +2943,11 @@
     </Record>
     <Record>
       <Key>ItemHardSuit</Key>
-      <Value>堅固太空裝</Value>
+      <Value>進階太空裝</Value>
     </Record>
     <Record>
       <Key>ItemHardsuitHelmet</Key>
-      <Value>堅固太空頭盔</Value>
+      <Value>進階太空頭盔</Value>
     </Record>
     <Record>
       <Key>ItemWearLamp</Key>
@@ -3140,6 +3140,14 @@
     <Record>
       <Key>ItemPumpkinPie</Key>
       <Value>南瓜派</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardBackpack</Key>
+      <Value>進階背包</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardJetpack</Key>
+      <Value>進階噴射背包</Value>
     </Record>
   </Things>
   <Slots>
