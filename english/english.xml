@@ -3141,6 +3141,14 @@
       <Key>ItemPumpkinPie</Key>
       <Value>Pumpkin Pie</Value>
     </Record>
+    <Record>
+      <Key>ItemHardBackpack</Key>
+      <Value>Hardsuit Backpack</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardJetpack</Key>
+      <Value>Hardsuit Jetpack</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
