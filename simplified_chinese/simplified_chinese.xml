@@ -3165,6 +3165,30 @@
       <Key>ItemPumpkinPie</Key>#新加
       <Value>南瓜派</Value>
     </Record>
+    <Record>
+      <Key>ItemHardBackpack</Key>#新加
+      <Value>硬皮背包</Value>
+    </Record>
+    <Record>
+      <Key>ItemHardJetpack</Key>#新加
+      <Value>硬皮喷气背包</Value>
+    </Record>
+    <Record>
+      <Key>DynamicHydroponics</Key>#新加
+      <Value>便携式水培站</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicHydroponics</Key>#新加
+      <Value>便携式水培站</Value>
+    </Record>
+    <Record>
+      <Key>StructureKlaxon</Key>#新加
+      <Value>喇叭/扬声器</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSpeaker</Key>#新加
+      <Value>喇叭/扬声器</Value>
+    </Record>
   </Things>
   <Slots>#槽 有新加
     <Record>
