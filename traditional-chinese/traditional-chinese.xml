@@ -3149,6 +3149,22 @@
       <Key>ItemHardJetpack</Key>
       <Value>進階噴射背包</Value>
     </Record>
+    <Record>
+      <Key>DynamicHydroponics</Key>
+      <Value>可攜式水培箱</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicHydroponics</Key>
+      <Value>可攜式水培箱</Value>
+    </Record>
+    <Record>
+      <Key>StructureKlaxon</Key>
+      <Value>揚聲器</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSpeaker</Key>
+      <Value>套件 揚聲器</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
