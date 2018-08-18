@@ -17,7 +17,7 @@
     <RecordReagent>
       <Key>Egg</Key>
       <Value>Egg</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Iron</Key>
@@ -117,7 +117,7 @@
     <RecordReagent>
       <Key>Potato</Key>
       <Value>Potato</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Fenoxitone</Key>
@@ -152,7 +152,7 @@
     <RecordReagent>
       <Key>Pumpkin</Key>
       <Value>Pumpkin</Value>
-      <Unit/>
+      <Unit />
     </RecordReagent>
     <RecordReagent>
       <Key>Rice</Key>
@@ -3149,6 +3149,22 @@
       <Key>ItemHardJetpack</Key>
       <Value>Hardsuit Jetpack</Value>
     </Record>
+    <Record>
+      <Key>DynamicHydroponics</Key>
+      <Value>Portable Hydroponics</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitDynamicHydroponics</Key>
+      <Value>Kit (Portable Hydroponics)</Value>
+    </Record>
+    <Record>
+      <Key>StructureKlaxon</Key>
+      <Value>Klaxon Speaker</Value>
+    </Record>
+    <Record>
+      <Key>ItemKitSpeaker</Key>
+      <Value>Kit (Speaker)</Value>
+    </Record>
   </Things>
   <Slots>
     <Record>
@@ -4938,7 +4954,7 @@ Temperature {1}</Value>
       <Value>Purple</Value>
     </Record>
   </Colors>
-  <Keys/>
+  <Keys />
   <Mineables>
     <Record>
       <Key>Iron</Key>
@@ -4989,5 +5005,5 @@ Temperature {1}</Value>
       <Value>Silicon</Value>
     </Record>
   </Mineables>
-  <GameTip/>
+  <GameTip />
 </Language>
